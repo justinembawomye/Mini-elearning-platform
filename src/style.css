@@ -1,0 +1,45 @@
+.collection {
+  border: none;
+}
+
+.css a {
+  color: #F44336 !important;
+}
+
+.css i {
+  color: #F44336 !important;
+}
+
+.html5 a {
+  color: #ffc107 !important;
+}
+
+.html5 i {
+  color: #ffc107;
+}
+
+.javascript a {
+  color: #4CAF50 !important;
+}
+
+.javascript i {
+  color: #4CAF50;
+}
+
+.php a {
+  color: #2196F3 !important;
+}
+
+.php i {
+  color: #2196F3;
+}
+
+.indicator {
+  background-color: #9e9e9e !important;
+}
+
+.modal-content {
+  padding: 24px !important;
+  overflow: visible !important;
+  height: 550px !important;
+}
