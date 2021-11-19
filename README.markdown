@@ -6,4 +6,4 @@ You will learn the following languages
 ```JavaScript
 ```Python 
 
-Preview on <a href="#">Github pages</a>
+Preview on <a href="https://justinembawomye.github.io/Mini-elearning-platform/dist/index.html">Github pages</a>
